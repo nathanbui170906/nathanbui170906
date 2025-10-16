@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Lionel Bui (Nhat Bui)
-**I'm just a Vietnamese guy with an ambitous of becoming an AI Engineer or a Fullstack Developer. I want to discover new technologies which helping people solving their daily problems**
+**I'm just a Vietnamese guy with an ambitous of becoming an AI Engineer or a Fullstack Developer. I want to discover new technologies which helping people solving their daily problems.**
 
 ### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@mnhat_1709) 
