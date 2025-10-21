@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Lionel Bui (Nhat Bui)
+# 💫 Hi 👋, I'm Nhat Bui Minh (Lionel Bui)
 **I'm just a Vietnamese guy with an ambitous of becoming an AI Engineer or a Fullstack Developer. I want to discover new technologies which helping people solving their daily problems.**
 
 ### 🌐 Socials:
