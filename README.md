@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Nhat Bui Minh (Lionel Bui)
 **I'm just a Vietnamese guy with an ambitous of becoming an AI Engineer or a Fullstack Developer. I want to discover new technologies which helping people solving their daily problems.**
 
-### 🌐 Socials:
+### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@mnhat_1709) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mnhatt.2006) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b.mnhat) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@mnhat_sw) 
 
-### 💻 Tech Stack:
+### 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -34,7 +34,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=lionelbui2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lionelbui2006&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lionelbui2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
