@@ -38,12 +38,6 @@
 ## :computer: Tech Stack:
 
 <p align="center">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/git.png" alt="git"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
-  <img width="48" height="48" src="https://img.icons8.com/doodle/48/notion.png" alt="notion"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-trello-a-web-based-list-making-application-for-multi-platform-logo-color-tal-revivo.png" alt="external-trello-a-web-based-list-making-application-for-multi-platform-logo-color-tal-revivo"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/>
   <img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/>
