@@ -42,9 +42,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/typescript--v2.png" alt="typescript--v2"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/tailwind_css.png" alt="tailwind_css"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/office/40/spring-logo.png" alt="spring-logo"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/sql.png" alt="sql"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
   <img width="48" height="48" src="https://img.icons8.com/plasticine/100/postgreesql.png" alt="postgreesql"/>
 </p>
 
